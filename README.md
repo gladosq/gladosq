@@ -2,4 +2,6 @@
 I'm front-end developer, looking for **_fancy_** solutions and designs.
 
 ### :nut_and_bolt: My Tech and Tools
-HTML5 / CSS3, JavaScript, PHP, Sass, Git, Gulp, Figma.
+HTML5 / CSS3, JavaScript, PHP, React, Sass, Git, Gulp, Webpack, Figma.
+
+### :new_moon: [Portfolio](https://gladosq-web.dev/) 

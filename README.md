@@ -5,7 +5,7 @@ I'm front-end developer, looking for **_fancy_** solutions and designs.
 * React (Next.js)
 * HTML5 / CSS3
 * JavaScript / TypeScript
-* React Query / RTK Query / swr
+* React Query / RTK Query
 * Redux Toolkit / zustand
 * PHP, Sass, Git, Webpack, Figma
 

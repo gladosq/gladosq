@@ -7,6 +7,6 @@ I'm front-end developer, looking for **_fancy_** solutions and designs.
 * JavaScript / TypeScript
 * React Query / RTK Query
 * Redux Toolkit / zustand
-* PHP, Sass, Git, Webpack, Figma
+* Sass, Git, Webpack, Figma
 
 ### :new_moon: [Portfolio](https://gladosq-web.dev/) 

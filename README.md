@@ -9,4 +9,4 @@ I'm front-end developer, looking for **_fancy_** solutions and designs.
 * Redux Toolkit / zustand
 * Sass, Git, Webpack, Figma
 
-### :new_moon: [Movie Guesser]([https://gladosq-web.dev/](https://movie-guesser.com/)) 
+### :new_moon: [Movie Guesser](https://movie-guesser.com/)

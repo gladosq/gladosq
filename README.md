@@ -9,5 +9,4 @@ I'm front-end developer, looking for **_fancy_** solutions and designs.
 * Redux Toolkit / zustand
 * Sass, Git, Webpack, Figma
 
-### :new_moon: [Movie Guesser](https://movie-guesser.com/)
 ### 🌒 [React Three Fiber demo](https://main--pepega-portal.netlify.app/)
